@@ -1,4 +1,4 @@
-# Blender-Donut-and-Apple
+# Blender-3D-Donut
 
 Added a Blender Donut model file (Extract the rar file) plus some final rendered images.
 
